@@ -16,6 +16,13 @@
 
 📮 **QQ：`326464623`** ｜ 💬 **微信：`wxhjs19971031`**
 
+<table>
+<tr>
+<td align="center"><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/qq-qr.jpg" width="170" alt="QQ 二维码"><br><sub><b>扫码加 QQ</b></sub></td>
+<td align="center"><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/wx-qr.jpg" width="170" alt="微信二维码"><br><sub><b>扫码加微信</b></sub></td>
+</tr>
+</table>
+
 </div>
 
 ---
