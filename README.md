@@ -2,6 +2,8 @@
 
 # gpt-protocol-recharge
 
+**中文** | [English](README.en.md)
+
 ### ChatGPT / Codex 全协议充值脚本 · 菲区稳定续费 / 充值 / 订阅
 
 **整套源码交付，从此不用找代充——自己给自己续费，也可以帮助他人充值。**<br>
