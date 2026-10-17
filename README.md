@@ -14,13 +14,13 @@
 
 **技术支持 · 询价合作**
 
-📮 **QQ：`326464623`** ｜ 💬 **微信：`wxhjs19971031`**
+📮 **QQ：`326464623`** ｜ 💬 **微信：`wxid_ue6kz4i0j9x122`**
 
 <table>
 <tr>
 <td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/qq-qr.jpg" width="230" alt="QQ 二维码"><br><sub><b>扫码加 QQ</b></sub>&nbsp;</td>
 <td align="center" width="4%"></td>
-<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/wx-qr.jpg" width="230" alt="微信二维码"><br><sub><b>扫码加微信</b></sub>&nbsp;</td>
+<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/wx-qr-new.jpg" width="230" alt="微信二维码"><br><sub><b>扫码加微信</b></sub>&nbsp;</td>
 </tr>
 </table>
 
