@@ -37,12 +37,10 @@
 
 ## 仓库实拍
 
-项目为**真实在维护的私有仓库**（持续迭代中，非空壳 demo）。以下为该仓库的实际截图：
+项目为**真实在维护的私有仓库**（持续迭代中，非空壳 demo）。下图为 GitHub 仓库列表实拍——公开仓库旁的 `protocol-checkout`（Private）即本项目私有仓库：
 
 <div align="center">
-<img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/repo-shot-1.png" width="700" alt="私有仓库首页实拍">
-<br><br>
-<img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/repo-shot-2.png" width="700" alt="私有仓库代码结构实拍：protocol/ 协议核心 + recharge-flow.cjs 八节点编排">
+<img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/repo-shot-3.png" width="700" alt="GitHub 仓库列表实拍：公开仓库与私有协议充值仓库并列">
 </div>
 
 - 完整工程结构：`protocol/` 协议核心 + `recharge-flow.cjs` 八节点编排 + CLI
