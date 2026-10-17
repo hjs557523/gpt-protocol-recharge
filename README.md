@@ -14,13 +14,15 @@
 
 **技术支持 · 询价合作**
 
-📮 **QQ：`326464623`** ｜ 💬 **微信：`wxid_ue6kz4i0j9x122`**
+📮 **QQ：`326464623`** ｜ 💬 **微信：`wxid_ue6kz4i0j9x122`** ｜ ✈️ **Telegram：[t.me/+85292425094](https://t.me/+85292425094)**
 
 <table>
 <tr>
-<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/qq-qr.jpg" width="230" alt="QQ 二维码"><br><sub><b>扫码加 QQ</b></sub>&nbsp;</td>
-<td align="center" width="4%"></td>
-<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/wx-qr-new.jpg" width="230" alt="微信二维码"><br><sub><b>扫码加微信</b></sub>&nbsp;</td>
+<td align="center" width="31%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/qq-qr.jpg" width="200" alt="QQ 二维码"><br><sub><b>扫码加 QQ</b></sub>&nbsp;</td>
+<td align="center" width="3.5%"></td>
+<td align="center" width="31%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/wx-qr-new.jpg" width="200" alt="微信二维码"><br><sub><b>扫码加微信</b></sub>&nbsp;</td>
+<td align="center" width="3.5%"></td>
+<td align="center" width="31%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/tg-qr.jpg" width="200" alt="Telegram 二维码"><br><sub><b>扫码加 Telegram</b></sub>&nbsp;</td>
 </tr>
 </table>
 
