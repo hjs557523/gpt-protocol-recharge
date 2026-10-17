@@ -35,6 +35,20 @@
 
 > 相比「按次找代充」，源码交付是**一次性投入、长期自有**的方案——你不再是买家，而是拥有充值能力的人。
 
+## 仓库实拍
+
+项目为**真实在维护的私有仓库**（持续迭代中，非空壳 demo）。以下为该仓库的实际截图：
+
+<div align="center">
+<img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/repo-shot-1.png" width="700" alt="私有仓库首页实拍">
+<br><br>
+<img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/repo-shot-2.png" width="700" alt="私有仓库代码结构实拍：protocol/ 协议核心 + recharge-flow.cjs 八节点编排">
+</div>
+
+- 完整工程结构：`protocol/` 协议核心 + `recharge-flow.cjs` 八节点编排 + CLI
+- 持续更新：近期仍在提交修复与优化
+- **确认合作后，整套私有仓库源码完整交付给买家**
+
 ## 支持套餐
 
 | 档位 | 说明 |
