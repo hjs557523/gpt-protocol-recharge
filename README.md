@@ -16,20 +16,6 @@
 
 **技术支持 · 询价合作**
 
-💬 **微信：`lubazou88`** ｜ ✈️ **Telegram：[t.me/+85292425094](https://t.me/+85292425094)**
-
-<table>
-<tr>
-<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/wx-qr-new.jpg" width="230" alt="微信二维码"><br><sub><b>扫码加微信</b></sub>&nbsp;</td>
-<td align="center" width="4%"></td>
-<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/tg-qr.jpg" width="230" alt="Telegram 二维码"><br><sub><b>扫码加 Telegram</b></sub>&nbsp;</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 这是什么
 
 一套 **ChatGPT / Codex 全协议充值脚本**，用纯 HTTP 协议（零浏览器）完成订阅的充值、续费与订阅管理，无需人工代充、无需找黄牛。
