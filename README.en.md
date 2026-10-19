@@ -14,18 +14,6 @@ Pure protocol direct recharge (zero browser), stable PH-region renewal, own the 
 ![Mode](https://img.shields.io/badge/mode-full%20protocol·zero%20browser-111111)
 ![Source](https://img.shields.io/badge/source-full%20delivery-FF6600)
 
-**Support · Pricing**
-
-💬 **WeChat：`lubazou88`** ｜ ✈️ **Telegram：[t.me/+85292425094](https://t.me/+85292425094)**
-
-<table>
-<tr>
-<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/wx-qr-new.jpg" width="230" alt="WeChat QR code"><br><sub><b>Scan to add WeChat</b></sub>&nbsp;</td>
-<td align="center" width="4%"></td>
-<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/tg-qr.jpg" width="230" alt="Telegram QR code"><br><sub><b>Scan to add Telegram</b></sub>&nbsp;</td>
-</tr>
-</table>
-
 </div>
 
 ---

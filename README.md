@@ -14,18 +14,6 @@
 ![Mode](https://img.shields.io/badge/模式-全协议·零浏览器-111111)
 ![Source](https://img.shields.io/badge/源码-整套交付-FF6600)
 
-**技术支持 · 询价合作**
-
-💬 **微信：`lubazou88`** ｜ ✈️ **Telegram：[t.me/+85292425094](https://t.me/+85292425094)**
-
-<table>
-<tr>
-<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/wx-qr-new.jpg" width="230" alt="微信二维码"><br><sub><b>扫码加微信</b></sub>&nbsp;</td>
-<td align="center" width="4%"></td>
-<td align="center" width="48%">&nbsp;<br><img src="https://github.com/hjs557523/gpt-protocol-recharge/releases/download/v-preview/tg-qr.jpg" width="230" alt="Telegram 二维码"><br><sub><b>扫码加 Telegram</b></sub>&nbsp;</td>
-</tr>
-</table>
-
 </div>
 
 ---
