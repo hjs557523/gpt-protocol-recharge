@@ -14,6 +14,12 @@ Pure protocol direct recharge (zero browser), stable PH-region renewal, own the 
 ![Mode](https://img.shields.io/badge/mode-full%20protocol·zero%20browser-111111)
 ![Source](https://img.shields.io/badge/source-full%20delivery-FF6600)
 
+**Support · Pricing**
+
+🐧 **QQ：`326464623`** ｜ 💬 **WeChat：`wxhjs19971031`**
+
+> Please mention your purpose (source code purchase / support / partnership) when adding, so we can respond faster.
+
 </div>
 
 ---
