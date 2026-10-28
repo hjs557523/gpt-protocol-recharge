@@ -16,7 +16,7 @@ Pure protocol direct recharge (zero browser), stable PH-region renewal, own the 
 
 **Support · Pricing**
 
-🐧 **QQ：`326464623`** ｜ 💬 **WeChat：`wxhjs19971031`**
+🐧 **QQ：`326464623`** ｜ 💬 **WeChat：`wxhjs19971031`** ｜ ✈️ **Telegram：[t.me/lubazou88](https://t.me/lubazou88)**
 
 > Please mention your purpose (source code purchase / support / partnership) when adding, so we can respond faster.
 
